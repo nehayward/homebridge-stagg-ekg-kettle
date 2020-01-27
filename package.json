@@ -1,0 +1,15 @@
+{
+  "name": "homebridge-stagg-ekg-plus",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "homebridge": ">= 0.4"
+  },
+  "dependencies": {
+    "stagg-ekg-plus": "== 0.0.1"
+  }
+}
