@@ -1,5 +1,5 @@
 {
-  "name": "homebridge-stagg-ekg-plus",
+  "name": "@nehayward/homebridge-stagg-ekg-plus",
   "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
@@ -11,5 +11,18 @@
   },
   "dependencies": {
     "stagg-ekg-plus": "== 0.0.1"
-  }
+  },
+  "description": "A [Homebridge](https://github.com/nfarina/homebridge) plugin for [Stagg EKG+](https://fellowproducts.com/collections/heat/products/stagg-ekg-plus).",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nehayward/homebridge-stagg-ekg-kettle.git"
+  },
+  "author": "Nick Hayward",
+  "bugs": {
+    "url": "https://github.com/nehayward/homebridge-stagg-ekg-kettle/issues"
+  },
+  "homepage": "https://github.com/nehayward/homebridge-stagg-ekg-kettle#readme"
 }
