@@ -6,7 +6,7 @@ let Characteristic;
 module.exports = (homebridge) => {
   Service = homebridge.hap.Service;
   Characteristic = homebridge.hap.Characteristic;
-  homebridge.registerAccessory('homebridge-stagg-ekg-plus', 'StaggEkG+', StaggEKGAccessory);
+  homebridge.registerAccessory('homebridge-stagg-ekg-plus', 'StaggKettle', StaggEKGAccessory);
 }
 
 class StaggEKGAccessory {

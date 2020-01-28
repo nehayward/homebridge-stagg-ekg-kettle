@@ -21,8 +21,8 @@ Find your Stagg Kettle's MAC address (BLE MAC) with the official iOS/Android app
 {
     "accessories": [
         {
-            "accessory": "Stagg EKG",
-            "name": "Wall Switch",
+            "accessory": "StaggKettle",
+            "name": "Kettle",
             "macAddress": "01:23:45:67:89:AB"
         }
     ]

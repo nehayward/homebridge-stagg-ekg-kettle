@@ -1,5 +1,5 @@
 {
-  "name": "@nehayward/homebridge-stagg-ekg-plus",
+  "name": "homebridge-stagg-ekg-plus",
   "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
