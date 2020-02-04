@@ -28,3 +28,9 @@ Find your Stagg Kettle's MAC address (BLE MAC) with the official iOS/Android app
     ]
 }
 ```
+
+## Resources
+Special thank you to [@tlyakhov](https://github.com/tlyakhov/) for all the help!
+
+He has a more robust project found here.
+https://github.com/tlyakhov/fellow-stagg-ekg-plus
